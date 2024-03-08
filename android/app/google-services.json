@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "753785125549",
+    "firebase_url": "https://kayla-testapp-default-rtdb.firebaseio.com",
+    "project_id": "kayla-testapp",
+    "storage_bucket": "kayla-testapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753785125549:android:8a8cf5b6b1a62913a46424",
+        "android_client_info": {
+          "package_name": "com.example.assignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "753785125549-08l5n5jb5n2qkgatrn1gj2i873dsubi1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkGdxYXRpOI58OYgGZ3oa9rx2_6ykFk00"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "753785125549-08l5n5jb5n2qkgatrn1gj2i873dsubi1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "753785125549-pk7jhfesblubnslmoh3vm3ab62lfleon.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.testapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
